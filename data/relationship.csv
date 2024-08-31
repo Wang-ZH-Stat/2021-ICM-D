@@ -1,0 +1,378 @@
+Source,Target,Type,Weight
+The Beatles,Kraftwerk,Directed,12.825453279818847
+The Beatles,Jimi Hendrix,Directed,10.602101465685768
+The Beatles,David Bowie,Directed,11.377909619804125
+The Beatles,Led Zeppelin,Directed,11.51654489303669
+The Beatles,Tangerine Dream,Directed,16.87143331845802
+The Beatles,Mike Oldfield,Directed,17.82705942878231
+The Beatles,Michael Jackson,Directed,11.992823942592391
+The Beatles,The Kinks,Directed,16.87143331845802
+The Beatles,The Beach Boys,Directed,14.046806610150275
+The Beatles,Prince,Directed,8.848062722293726
+The Beatles,Joan Baez,Directed,13.370294571586733
+The Beatles,Black Sabbath,Directed,14.45265491670084
+The Beatles,Brian Eno,Directed,10.696235657269382
+The Beatles,Townes Van Zandt,Directed,13.084199260876273
+The Beatles,Pink Floyd,Directed,13.084199260876273
+The Beatles,The Byrds,Directed,12.176073161058689
+The Beatles,Sly & the Family Stone,Directed,13.370294571586733
+The Beatles,The Who,Directed,12.176073161058689
+The Beatles,Neil Young,Directed,10.696235657269382
+Bob Dylan,The Beatles,Directed,6.51131377866774
+Bob Dylan,The Rolling Stones,Directed,6.117438701326113
+Bob Dylan,Stevie Wonder,Directed,9.081425227401839
+Bob Dylan,Jimi Hendrix,Directed,6.454009762718392
+Bob Dylan,David Bowie,Directed,6.926281549295991
+Bob Dylan,Willie Nelson,Directed,7.664106506126959
+Bob Dylan,The Velvet Underground,Directed,10.27045399450318
+Bob Dylan,Joan Baez,Directed,8.139142223334675
+Bob Dylan,Townes Van Zandt,Directed,7.964982229264686
+Bob Dylan,Pink Floyd,Directed,7.964982229264686
+Bob Dylan,The Byrds,Directed,7.412162136665906
+Bob Dylan,Joni Mitchell,Directed,7.807471089306855
+Bob Dylan,Neil Young,Directed,6.51131377866774
+Bob Dylan,The Clash,Directed,5.657203356468656
+Marvin Gaye,Michael Jackson,Directed,4.876560075089313
+Marvin Gaye,Massive Attack,Directed,4.211254203548674
+Marvin Gaye,Prince,Directed,4.01596230069867
+Marvin Gaye,Toots & the Maytals,Directed,5.5380238604749845
+Marvin Gaye,Al Green,Directed,4.544781945566399
+Kraftwerk,David Bowie,Directed,5.368722542489923
+Kraftwerk,Neu!,Directed,8.989015416655347
+Kraftwerk,Aphex Twin,Directed,4.385030405010037
+Miles Davis,James Brown,Directed,4.777036834885112
+Miles Davis,"Lee ""Scratch"" Perry",Directed,5.20946118330711
+Miles Davis,John Coltrane,Directed,5.971296043606388
+Miles Davis,Tangerine Dream,Directed,5.0232911217263965
+Miles Davis,Fela Kuti,Directed,5.437945821163993
+Miles Davis,Brian Eno,Directed,3.9808640290709274
+Miles Davis,Sly & the Family Stone,Directed,4.276695532215551
+Muddy Waters,The Rolling Stones,Directed,2.986939037243303
+Muddy Waters,Jimi Hendrix,Directed,3.1119854200487995
+Muddy Waters,Led Zeppelin,Directed,3.3120985167653565
+Muddy Waters,Fred Neil,Directed,3.99047590443502
+Muddy Waters,Chuck Berry,Directed,4.389049191795735
+Muddy Waters,Pink Floyd,Directed,3.6369735875309823
+Muddy Waters,Jimmy Reed,Directed,6.876820381997246
+Muddy Waters,B.B. King,Directed,5.9635406680240335
+Muddy Waters,Buddy Guy,Directed,3.99047590443502
+James Brown,Miles Davis,Directed,5.035486883798264
+James Brown,The Rolling Stones,Directed,3.2557101593379616
+James Brown,"Lee ""Scratch"" Perry",Directed,5.145591381282217
+James Brown,Stevie Wonder,Directed,4.4891022602456445
+James Brown,Jimi Hendrix,Directed,3.4051991181729004
+James Brown,Michael Jackson,Directed,3.770056475268452
+James Brown,Peter Tosh,Directed,4.4891022602456445
+James Brown,Jimmy Cliff,Directed,4.4891022602456445
+James Brown,Fela Kuti,Directed,5.40594873514066
+James Brown,Prince,Directed,3.1047304745662787
+James Brown,Toots & the Maytals,Directed,4.28143248394054
+James Brown,Smokey Robinson,Directed,5.5621404732593165
+James Brown,Al Green,Directed,3.513559627839087
+James Brown,Sly & the Family Stone,Directed,4.116473105025774
+James Brown,The Who,Directed,3.816979586213305
+James Brown,Curtis Mayfield,Directed,5.40594873514066
+James Brown,King Tubby,Directed,5.40594873514066
+Hank Williams,Bob Dylan,Directed,2.8572851597076268
+Hank Williams,Johnny Cash,Directed,3.817261564345849
+Hank Williams,Merle Haggard,Directed,3.341005843790024
+Hank Williams,George Jones,Directed,3.5335879150501235
+Hank Williams,Elvis Presley,Directed,3.47910370058698
+Hank Williams,Willie Nelson,Directed,3.3833924436482623
+Hank Williams,Fred Neil,Directed,3.5335879150501235
+Hank Williams,Chuck Berry,Directed,3.7338607699764808
+Hank Williams,Townes Van Zandt,Directed,3.2419016777937184
+Hank Williams,Joni Mitchell,Directed,3.1985730772972203
+Hank Williams,Patsy Cline,Directed,3.817261564345849
+Hank Williams,Neil Young,Directed,2.819279428365199
+Hank Williams,Dolly Parton,Directed,3.4292513956419333
+The Rolling Stones,David Bowie,Directed,4.1180982362910585
+The Rolling Stones,Led Zeppelin,Directed,4.168275614497074
+The Rolling Stones,Michael Jackson,Directed,4.3406591172227245
+The Rolling Stones,Townes Van Zandt,Directed,4.735669354035787
+The Rolling Stones,Pink Floyd,Directed,4.735669354035787
+The Rolling Stones,The Byrds,Directed,4.406983979045696
+The Rolling Stones,The Who,Directed,4.406983979045696
+The Rolling Stones,Neil Young,Directed,3.871374502613856
+Billie Holiday,John Coltrane,Directed,3.6045294142968483
+Billie Holiday,Sam Cooke,Directed,4.103220540942228
+Billie Holiday,Nina Simone,Directed,3.4098913053704827
+Billie Holiday,Frank Sinatra,Directed,5.425357369782363
+Billie Holiday,Aretha Franklin,Directed,3.1772383037165413
+Billie Holiday,Sarah Vaughan,Directed,5.0272902625505225
+Billie Holiday,Dinah Washington,Directed,4.7336398734647736
+Johnny Cash,Bob Dylan,Directed,3.003954867573081
+Johnny Cash,Merle Haggard,Directed,3.616145991267892
+Johnny Cash,Fred Neil,Directed,3.870049701411725
+Johnny Cash,Townes Van Zandt,Directed,3.4877960410889086
+Johnny Cash,Neil Young,Directed,2.9573387928166444
+"Lee ""Scratch"" Perry",Peter Tosh,Directed,4.838957029580205
+"Lee ""Scratch"" Perry",Massive Attack,Directed,2.9368208557211237
+"Lee ""Scratch"" Perry",The Clash,Directed,3.0143907221686828
+Stevie Wonder,Michael Jackson,Directed,3.848045042530277
+Stevie Wonder,Prince,Directed,2.8390097326117743
+Terry Riley,Kraftwerk,Directed,3.5896798007762354
+Terry Riley,Tangerine Dream,Directed,4.722097696828329
+Terry Riley,Brian Eno,Directed,2.9937391096858565
+Terry Riley,Neu!,Directed,3.9315209259082606
+Terry Riley,Aphex Twin,Directed,2.4260741491882203
+Terry Riley,Harold Budd,Directed,5.790681893549055
+John Coltrane,"Lee ""Scratch"" Perry",Directed,3.238221954531621
+John Coltrane,Terry Riley,Directed,4.683746846939289
+John Coltrane,Jimi Hendrix,Directed,2.2396028877929277
+John Coltrane,Fela Kuti,Directed,3.380248921341971
+John Coltrane,The Byrds,Directed,2.483926873186477
+John Coltrane,Joni Mitchell,Directed,2.579915980105238
+Merle Haggard,Townes Van Zandt,Directed,3.5733608452774215
+Jimi Hendrix,Miles Davis,Directed,3.4868212323291576
+Jimi Hendrix,Led Zeppelin,Directed,3.069055465716205
+Jimi Hendrix,Tangerine Dream,Directed,4.496084990888866
+Jimi Hendrix,Prince,Directed,2.3579290065785568
+Jimi Hendrix,Black Sabbath,Directed,3.8515023366973633
+Jimi Hendrix,Brian Eno,Directed,2.85045044424563
+Jimi Hendrix,Neu!,Directed,3.743347419138383
+Woody Guthrie,Bob Dylan,Directed,2.056175630659565
+Woody Guthrie,Hank Williams,Directed,7.1008900631609855
+Woody Guthrie,Johnny Cash,Directed,2.746999254797688
+Woody Guthrie,Merle Haggard,Directed,2.4042734322657493
+Woody Guthrie,George Jones,Directed,2.5428604264555354
+Woody Guthrie,Pete Seeger,Directed,6.116373783319463
+Woody Guthrie,Fred Neil,Directed,2.5428604264555354
+Woody Guthrie,Joan Baez,Directed,2.5428604264555354
+Woody Guthrie,Joni Mitchell,Directed,2.301775163069582
+Woody Guthrie,Dolly Parton,Directed,2.4677771930351398
+Woody Guthrie,The Clash,Directed,2.006803756797107
+Sam Cooke,Marvin Gaye,Directed,3.142022670201809
+Sam Cooke,James Brown,Directed,3.3367711371534363
+Sam Cooke,Stevie Wonder,Directed,2.9110564255464286
+Sam Cooke,Otis Redding,Directed,2.7763884225342443
+Sam Cooke,Aretha Franklin,Directed,3.2653714705161514
+Sam Cooke,Smokey Robinson,Directed,3.6068914954027744
+Sam Cooke,Al Green,Directed,2.2784444947355245
+Sam Cooke,AndraÃ© Crouch,Directed,4.017872803795987
+Sam Cooke,The Who,Directed,2.4752037949827788
+Sam Cooke,Curtis Mayfield,Directed,3.5056055507955106
+AntÃ´nio Carlos Jobim,Astrud Gilberto,Directed,2.7638286082445562
+Led Zeppelin,Prince,Directed,1.9079714538073103
+Ella Fitzgerald,John Coltrane,Directed,2.0922195251234506
+Ella Fitzgerald,Nina Simone,Directed,1.97924343170786
+Ella Fitzgerald,Aretha Franklin,Directed,1.8442019057021939
+Ella Fitzgerald,Astrud Gilberto,Directed,1.8013532436055728
+Ella Fitzgerald,Sarah Vaughan,Directed,2.918049386433717
+Ella Fitzgerald,Dinah Washington,Directed,2.747602427347061
+Tangerine Dream,Aphex Twin,Directed,1.684937152379186
+Charlie Parker,Miles Davis,Directed,1.9911885202243376
+Charlie Parker,John Coltrane,Directed,2.0260195213131134
+Charlie Parker,The Skatalites,Directed,1.9034638247550333
+Charlie Parker,Ornette Coleman,Directed,2.2094177662243117
+Mike Oldfield,Aphex Twin,Directed,1.6289818674197525
+Ennio Morricone,Massive Attack,Directed,1.5762610470018477
+Howlin' Wolf,The Rolling Stones,Directed,1.3558197884921612
+Howlin' Wolf,"Lee ""Scratch"" Perry",Directed,1.9854430001929997
+Howlin' Wolf,Jimi Hendrix,Directed,1.409236171736099
+Howlin' Wolf,Led Zeppelin,Directed,1.4941947443479509
+Howlin' Wolf,Jimmy Reed,Directed,2.481803750241249
+Howlin' Wolf,Buddy Guy,Directed,1.725005918401185
+John Cage,Terry Riley,Directed,2.7555972031820097
+John Cage,Tangerine Dream,Directed,1.9108038584203109
+John Cage,Steve Reich,Directed,2.7555972031820097
+John Cage,Brian Eno,Directed,1.5626107244858836
+John Cage,Moondog,Directed,3.1163868659368275
+John Cage,Aphex Twin,Directed,1.4158400908106723
+John Cage,Philip Glass,Directed,1.9757425280999208
+John Cage,Harold Budd,Directed,2.154589626184687
+James Cleveland,Sam Cooke,Directed,3.3793213569405354
+James Cleveland,Aretha Franklin,Directed,2.3209885479275374
+James Cleveland,Al Green,Directed,1.6194921855349569
+James Cleveland,AndraÃ© Crouch,Directed,2.855857855328765
+James Cleveland,Curtis Mayfield,Directed,2.4917441737988453
+The Kinks,David Bowie,Directed,1.9702320948536567
+The Kinks,Black Sabbath,Directed,2.5026639799603814
+The Kinks,Pink Floyd,Directed,2.2656981977048543
+The Kinks,The Who,Directed,2.108444427212548
+George Jones,Neil Young,Directed,1.5411182777018257
+Otis Redding,Toots & the Maytals,Directed,2.349474236055091
+Otis Redding,Al Green,Directed,1.8413580262795932
+Otis Redding,Sly & the Family Stone,Directed,2.23632057422297
+Otis Redding,The Who,Directed,2.0365746451978253
+Otis Redding,Curtis Mayfield,Directed,2.349474236055091
+Elvis Presley,The Beatles,Directed,1.484563713078764
+Elvis Presley,Bob Dylan,Directed,1.5079646616605331
+Elvis Presley,The Rolling Stones,Directed,1.4089660851530592
+Elvis Presley,Merle Haggard,Directed,1.8152803908944604
+Elvis Presley,Led Zeppelin,Directed,1.5782440195075422
+Elvis Presley,Townes Van Zandt,Directed,1.7508495995782891
+Elvis Presley,Neil Young,Directed,1.484563713078764
+Elvis Presley,The Clash,Directed,1.4049831264808683
+Steve Reich,Kraftwerk,Directed,2.1259701491105973
+Steve Reich,Mike Oldfield,Directed,2.9550453590321077
+Steve Reich,The Velvet Underground,Directed,2.7966390602499094
+Steve Reich,Brian Eno,Directed,1.7730272154192643
+Peter Tosh,The Rolling Stones,Directed,1.6572578413213424
+John Lee Hooker,The Rolling Stones,Directed,1.2607226429642802
+John Lee Hooker,Johnny Cash,Directed,1.8991809344113704
+John Lee Hooker,Fred Neil,Directed,1.6842939431290438
+John Lee Hooker,Jimmy Reed,Directed,2.9025577887869005
+John Lee Hooker,Buddy Guy,Directed,1.6842939431290438
+Pete Seeger,Bob Dylan,Directed,1.2496375749566886
+Pete Seeger,Joan Baez,Directed,1.5454195105648247
+Pete Seeger,Pink Floyd,Directed,1.4178501355113968
+Pete Seeger,The Byrds,Directed,1.3502317615878685
+Pete Seeger,Joni Mitchell,Directed,1.3989003127865796
+Jimmy Cliff,The Rolling Stones,Directed,1.6184598415686502
+Jimmy Cliff,The Clash,Directed,1.4966977022666543
+Ray Charles,Marvin Gaye,Directed,1.640961236244123
+Ray Charles,James Brown,Directed,1.7223291240359864
+Ray Charles,Stevie Wonder,Directed,1.6657196415378261
+Ray Charles,Michael Jackson,Directed,1.4247326448484408
+Ray Charles,James Cleveland,Directed,4.305822810089966
+Ray Charles,Otis Redding,Directed,1.5970212702616071
+Ray Charles,Willie Nelson,Directed,1.640961236244123
+Ray Charles,Chuck Berry,Directed,1.832093620293385
+Ray Charles,Smokey Robinson,Directed,1.832093620293385
+Ray Charles,Al Green,Directed,1.3366011397940285
+Henry Mancini,John Barry,Directed,1.9287562518012569
+Fela Kuti,Brian Eno,Directed,1.7149662609837564
+The Beach Boys,The Byrds,Directed,1.9424140968866652
+The Beach Boys,The Who,Directed,1.9424140968866652
+The Beach Boys,Daft Punk,Directed,1.4966738886572335
+Nina Simone,Aretha Franklin,Directed,2.0257526994934785
+Frank Sinatra,Marvin Gaye,Directed,1.4160721738938369
+Frank Sinatra,Willie Nelson,Directed,1.4160721738938369
+Frank Sinatra,Astrud Gilberto,Directed,1.4222986804318465
+Frank Sinatra,Dinah Washington,Directed,2.1694308546307237
+Willie Nelson,Townes Van Zandt,Directed,1.5954595329714345
+Willie Nelson,Neil Young,Directed,1.352806848118466
+Willie Nelson,Dolly Parton,Directed,1.9465196822252933
+Aretha Franklin,Al Green,Directed,1.3350204921877582
+Fred Neil,Townes Van Zandt,Directed,1.885433910786084
+Fred Neil,Joni Mitchell,Directed,1.8481485991488624
+The Velvet Underground,Kraftwerk,Directed,1.8446188849696856
+The Velvet Underground,David Bowie,Directed,1.6364261362359729
+The Velvet Underground,Brian Eno,Directed,1.5383844813135468
+The Velvet Underground,Neu!,Directed,2.0202798436271863
+Spike Jones,"Lee ""Scratch"" Perry",Directed,1.5190875133927957
+Chuck Berry,The Beatles,Directed,1.208093061897353
+Chuck Berry,Bob Dylan,Directed,1.2271360462936398
+Chuck Berry,James Brown,Directed,1.81213959284603
+Chuck Berry,The Rolling Stones,Directed,1.1465739980886744
+Chuck Berry,Jimi Hendrix,Directed,1.1992200091931589
+Chuck Berry,David Bowie,Directed,1.2715788131775678
+Chuck Berry,Led Zeppelin,Directed,1.2843272627174165
+Chuck Berry,The Kinks,Directed,1.7382946621047033
+Chuck Berry,The Beach Boys,Directed,1.5078059533581625
+Chuck Berry,The Velvet Underground,Directed,1.7382946621047033
+Chuck Berry,The Who,Directed,1.344238071142482
+Chuck Berry,Neil Young,Directed,1.208093061897353
+Smokey Robinson,The Beatles,Directed,1.1451728344555479
+Smokey Robinson,Bob Dylan,Directed,1.1632240170220125
+Smokey Robinson,Marvin Gaye,Directed,1.617503355457042
+Smokey Robinson,Michael Jackson,Directed,1.2585627015231915
+Smokey Robinson,Jimmy Cliff,Directed,1.4986026615599497
+Smokey Robinson,Al Green,Directed,1.17293603588819
+Joan Baez,Joni Mitchell,Directed,1.3187262614302526
+Bill Monroe,Bob Dylan,Directed,1.0291260032247962
+Bill Monroe,George Jones,Directed,1.3361869661096553
+Bill Monroe,Elvis Presley,Directed,1.3132154551336852
+Bill Monroe,The Byrds,Directed,1.1177215917698469
+Bill Monroe,Neil Young,Directed,1.0145744686953966
+Bill Monroe,Dolly Parton,Directed,1.2922691970743136
+Bill Monroe,Loretta Lynn,Directed,1.324427606659322
+Al Green,David Bowie,Directed,1.4128455923286067
+Al Green,Prince,Directed,1.098703262335718
+Nat King Cole,Marvin Gaye,Directed,1.1376355208195503
+Nat King Cole,Sam Cooke,Directed,1.5107521224978868
+Nat King Cole,Ray Charles,Directed,1.6589257172868652
+Nat King Cole,Aretha Franklin,Directed,1.169817576980426
+Nat King Cole,Chuck Berry,Directed,1.2554773684898255
+Nat King Cole,Astrud Gilberto,Directed,1.1426377340815883
+Nat King Cole,Curtis Mayfield,Directed,1.230584616757958
+Brian Eno,David Bowie,Directed,1.3893775155665342
+Brian Eno,Aphex Twin,Directed,1.134806762982945
+John Barry,Massive Attack,Directed,1.011285774900941
+Dizzy Gillespie,Miles Davis,Directed,1.2483365768639212
+Dizzy Gillespie,James Brown,Directed,1.1371367215713255
+Dizzy Gillespie,John Coltrane,Directed,1.2701731896337696
+Dizzy Gillespie,The Skatalites,Directed,1.193339300143863
+Dizzy Gillespie,Tito Puente,Directed,1.771529255017674
+Pink Floyd,Kraftwerk,Directed,1.5185336693860316
+Pink Floyd,David Bowie,Directed,1.3471444999211621
+Pink Floyd,Tangerine Dream,Directed,1.9975777062938769
+Pink Floyd,Brian Eno,Directed,1.2664343027009497
+Pink Floyd,Neu!,Directed,1.6631419037977846
+Jimmy Reed,The Rolling Stones,Directed,0.9028046907074476
+Jimmy Reed,Jimi Hendrix,Directed,0.9406000589908896
+Jimmy Reed,Elvis Presley,Directed,1.2256744515869558
+Jimmy Reed,Pink Floyd,Directed,1.0992781485866685
+Jimmy Reed,The Byrds,Directed,1.043212516014704
+Jimmy Reed,The Who,Directed,1.043212516014704
+Jimmy Reed,Neil Young,Directed,0.946941342070761
+The Skatalites,"Lee ""Scratch"" Perry",Directed,2.0659411710388427
+The Skatalites,Peter Tosh,Directed,1.7288391473745583
+The Skatalites,Jimmy Cliff,Directed,1.7288391473745583
+The Skatalites,Toots & the Maytals,Directed,1.6278554639626417
+The Skatalites,King Tubby,Directed,2.2077092797991984
+The Byrds,The Velvet Underground,Directed,1.9177215415897104
+Sarah Vaughan,Nina Simone,Directed,1.2901976550755867
+Sarah Vaughan,Aretha Franklin,Directed,1.1920472918244107
+Sarah Vaughan,Astrud Gilberto,Directed,1.1246549167435034
+Dinah Washington,Nina Simone,Directed,1.2891591622065133
+Dinah Washington,Aretha Franklin,Directed,1.1910878011546764
+B.B. King,Jimi Hendrix,Directed,0.9131768619566374
+B.B. King,Buddy Guy,Directed,1.1709599410875144
+Moondog,Kraftwerk,Directed,1.2563043555237472
+Moondog,Philip Glass,Directed,1.4933964697483493
+Moondog,Harold Budd,Directed,1.6662896411864117
+Sly & the Family Stone,Miles Davis,Directed,1.4300384633314784
+Sly & the Family Stone,Michael Jackson,Directed,1.3107565224225426
+Sly & the Family Stone,Prince,Directed,0.967049627307652
+Joni Mitchell,Prince,Directed,0.9383486453459216
+Joni Mitchell,Amy Grant,Directed,1.2066422236938923
+The Who,David Bowie,Directed,1.1803923113655377
+The Who,Black Sabbath,Directed,1.4993793510891584
+The Who,Pink Floyd,Directed,1.3574099921685687
+The Who,The Clash,Directed,0.9641131822724788
+Curtis Mayfield,Jimi Hendrix,Directed,0.9064233060094716
+Patsy Cline,Dolly Parton,Directed,1.3118776855771894
+Patsy Cline,Loretta Lynn,Directed,1.22671049311756
+Louis Jordan,James Brown,Directed,0.967948066447482
+Louis Jordan,Ray Charles,Directed,1.3514884134386842
+Louis Jordan,Nina Simone,Directed,1.0228083748219334
+Louis Jordan,Spike Jones,Directed,2.328217512703373
+Louis Jordan,Chuck Berry,Directed,1.0228083748219334
+Louis Jordan,Nat King Cole,Directed,5.405953653754738
+Louis Jordan,The Skatalites,Directed,1.015788555833382
+Louis Jordan,Dinah Washington,Directed,1.4198712135912994
+Louis Jordan,B.B. King,Directed,1.212251720860937
+Louis Jordan,Ornette Coleman,Directed,1.1790616941587744
+Louis Jordan,King Tubby,Directed,1.124517274343648
+Thelonious Monk,Miles Davis,Directed,1.3048315585571917
+Thelonious Monk,John Coltrane,Directed,1.3333626274233217
+Thelonious Monk,Joni Mitchell,Directed,0.9267688565047104
+Thelonious Monk,Ornette Coleman,Directed,1.3333626274233217
+Ornette Coleman,The Velvet Underground,Directed,1.2771247625578874
+Ornette Coleman,Philip Glass,Directed,1.331378619337803
+Elmore James,The Rolling Stones,Directed,0.724452894516933
+Elmore James,Jimi Hendrix,Directed,0.7529947802337162
+Elmore James,Chuck Berry,Directed,1.0035928737563216
+Elmore James,B.B. King,Directed,1.1894771476296129
+Elmore James,Buddy Guy,Directed,0.9217194949148684
+Buddy Guy,The Rolling Stones,Directed,0.8360761076143414
+Buddy Guy,Jimi Hendrix,Directed,0.8744653194044509
+Philip Glass,Aphex Twin,Directed,0.8105886354143308
+King Tubby,Massive Attack,Directed,0.8410636118781514
+Harold Budd,Aphex Twin,Directed,0.8034015649118431
+Dolly Parton,Amy Grant,Directed,0.9296690929447171
+Ravi Shankar,The Beatles,Directed,0.6944682117839378
+Ravi Shankar,The Rolling Stones,Directed,0.663934064837651
+Ravi Shankar,John Coltrane,Directed,0.9722554964975128
+Ravi Shankar,Philip Glass,Directed,0.9722554964975129
+T-Bone Walker,Jimi Hendrix,Directed,0.6888116078862924
+T-Bone Walker,Howlin' Wolf,Directed,3.0614354836359
+T-Bone Walker,John Lee Hooker,Directed,1.3535038201833214
+T-Bone Walker,Chuck Berry,Directed,0.9180494197061412
+T-Bone Walker,B.B. King,Directed,1.088089437151809
+T-Bone Walker,Louis Jordan,Directed,3.0614354836359
+T-Bone Walker,Elmore James,Directed,2.089754825149064
+T-Bone Walker,Buddy Guy,Directed,0.8431546990477049
+Loretta Lynn,Dolly Parton,Directed,1.1544435007355094
